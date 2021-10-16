@@ -1,4 +1,4 @@
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mkamei)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **Masaya-Kamei/Masaya-Kamei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
